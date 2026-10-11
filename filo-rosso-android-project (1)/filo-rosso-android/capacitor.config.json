@@ -1,0 +1,7 @@
+{
+  "appId": "it.filorosso.game",
+  "appName": "Filo Rosso",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "backgroundColor": "#150a33"
+}
